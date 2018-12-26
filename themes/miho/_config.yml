@@ -42,11 +42,11 @@ menu:
 social:
   home:
     title: 佳姐
-    url: //xxxx.com
+    url: //lemonsai.cn
     target: true
   github:
     title: Github
-    url: //github.com/wongminho
+    url: //github.com/lemonsai
     target: true
   weibo:
     title: Weibo
@@ -68,7 +68,7 @@ social:
 # Content
 
 # Excerpt length | 摘录长度
-excerpt_length: 190
+excerpt_length: 16
 # Excerpt link | 摘录链接
 excerpt_link: 阅读更多>>
 # New window open link | 新窗口打开文章
@@ -111,7 +111,18 @@ reward:
 changyan_appid: false
 changyan_appkey: false
 # 友言，输入id
-youyan_id: false
+youyan_id: true
+valine:
+    enable: true
+    appId: YuJojz83B3a1hbskkfXdkTl9-gzGzoHsz
+    appKey: RrOaVFCd7VHnjA6vGW0tivsg
+    notify: false
+    verify: false
+    avatar: mp
+    placeholder: good
+    guest_info: nick,mail,link
+    pageSize: 10
+    lang: zh-cn
 # disqus
 disqus: false
 # gitment  https://github.com/imsun/gitment
@@ -138,4 +149,5 @@ access_counter:
   site_pv: 总访问量：
 
 # Copyright Information | 版权信息
-copyright: 2018 MinHow
+copyright: 2018 Home
+

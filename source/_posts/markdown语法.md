@@ -2,6 +2,9 @@
 title: markdown语法
 date: 2018-12-25 09:47:16
 tags:
+- hexo
+- markdown
+cover_picture: /images/插画.jpg
 ---
 # 标题相关
 ## 二级标题
