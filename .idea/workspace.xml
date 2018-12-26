@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23d450bf-3600-4341-939a-4b48b381be3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/markdown语法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/markdown语法.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/笔记.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/miho/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/miho/layout/_partial/footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/miho/layout/_partial/plugins/comments/youyan.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/miho/layout/_partial/plugins/comments/youyan.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/miho/source/css/_partial/reward.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/miho/source/css/_partial/reward.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/miho/source/images/wechat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/miho/source/images/wechat.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="23d450bf-3600-4341-939a-4b48b381be3d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +31,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/笔记.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="239">
-                <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+              <first_editor relative-caret-position="296">
+                <caret line="124" column="6" lean-forward="true" selection-start-line="124" selection-start-column="6" selection-end-line="124" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -76,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-76">
-              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="266">
+              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -128,12 +116,12 @@
         <option value="$PROJECT_DIR$/source/about/index.md" />
         <option value="$PROJECT_DIR$/source/_posts/markdown语法.md" />
         <option value="$PROJECT_DIR$/themes/miho/_config.yml" />
-        <option value="$PROJECT_DIR$/source/_posts/笔记.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_posts/笔记.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="314" />
     <option name="y" value="69" />
     <option name="width" value="1308" />
@@ -157,12 +145,6 @@
               <item name="blong" type="b2602c69:ProjectViewProjectNode" />
               <item name="blong" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blong" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blong" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="blong" type="b2602c69:ProjectViewProjectNode" />
@@ -207,12 +189,12 @@
       <workItem from="1545700819647" duration="230000" />
       <workItem from="1545701076552" duration="11730000" />
       <workItem from="1545787811022" duration="655000" />
-      <workItem from="1545790054318" duration="10900000" />
+      <workItem from="1545790054318" duration="11479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32567000" />
+    <option name="totallyTimeSpent" value="33146000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,16 +316,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/笔记.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="239">
-            <caret line="71" column="5" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/miho/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1292">
@@ -353,8 +325,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-76">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="266">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="296">
+            <caret line="124" column="6" lean-forward="true" selection-start-line="124" selection-start-column="6" selection-end-line="124" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
